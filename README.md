@@ -1,15 +1,18 @@
 # Hi there, I'm Keokeditse !
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in multiple programming languages and platforms. I love building robust applications and continuously learning new technologies. Robotics is were my most curiosity lies.
+Welcome to my GitHub profile! I'm a passionate developer with experience in multiple programming languages and platforms. I love building robust applications and continuously learning new technologies. Robotics is were my most curiosity and interests lies.
 
 ---
 
 ## 🛠 Skills & Technologies
 
 - *Languages*:  
-  - Python – scripting, automation, data analysis, web backends (Flask, Django)  
-  - Java – OOP, backend systems, and Android development  
-  - C – low-level programming, algorithms, and data structures  
+  - Python – scripting, automation, data analysis, web backends (Flask, Django).
+  - Java – OOP, backend systems, and Android development.
+  - MIPS – Understanding the basics of Architechture Language and application.
+  - SQL – Manipulation of data, data normalization and storage.
+  - C – low-level programming, algorithms, scheduling and data structures.
+  - F# – Function techniques, Programs by design and Algebraic data types.
   - TypeScript – modern web development with frameworks like Angular or React
 
 - *Mobile Development*:  
@@ -22,8 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in mult
 - *KR-AID* – looks for the closed medical facility based on your location and issue (still in development) 
 - *AstroSlither* – The snake game
 - (In collaboration with [Email](rrothang@gmail.com))
-
--**Password manager **-
 
 ---
 
