@@ -53,4 +53,6 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in mult
 
 - [Email](keokeditseo@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/keokeditse-ndala-a15a1a314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
+---
 Thanks for visiting my profile!
