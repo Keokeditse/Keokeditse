@@ -39,13 +39,13 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in mult
 
 - **Sudoku Solver ** – A Java algorithm to solve any n by n sudoku grid. (Current algorithm goes till 16).
 
-- **Software Design ** - A Java web app using Java and Gradle.
+- **Software Design ** - A Java web app using Java and Gradle. System development and version control.
 
 ---
 
 ## 🌐 TypeScript Projects
 
-- *Study Timetable builder* – planner web app using TypeScript and react.
+- *Study Timetable builder* – planner web app using TypeScript and react. System development and version control.
 
 ---
 
